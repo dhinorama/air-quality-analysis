@@ -24,8 +24,7 @@ st.markdown(
 # MEMBACA DATA
 # ============================================================
 
-df = pd.read_csv("main_data.csv")
-
+df = pd.read_csv("dashboard/main_data.csv")
 
 # ============================================================
 # SIDEBAR FILTER
